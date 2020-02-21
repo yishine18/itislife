@@ -1,0 +1,4 @@
+1、net_safe
+20200221
+python socket：实现socket创建的server和client的顺序交互。还没用多线程。
+其中，碰到python3.x和2.x对于input()函数的不同值得注意，优先用3.x，输入均为字符串。
